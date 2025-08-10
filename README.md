@@ -20,7 +20,7 @@ This simple and clean template is ideal for portfolios, product showcases, or pe
 - Footer with social icons
 
 ## About the Developer
-Created with by Nova Quill
+Created with by Sahar Mahmoud
 If you like this template or want to collaborate, feel free to connect:
 
 GitHub: [@SaharMahmoudDev on github](https://github.com/SaharMahmoudDev)
