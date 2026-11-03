@@ -1,10 +1,9 @@
-# Template Two 
-
+# Kasper
 A fully responsive landing page built with **pure HTML5 and CSS**, without any frameworks.  
 This simple and clean template is ideal for portfolios, product showcases, or personal projects.
 
 ## Live Demo
-[View Live on Netlify](https://kasperproject.netlify.app)  
+[View Live Demo](https://kasper-landing-page.pages.dev/)  
 
 ## Technologies Used
 - HTML5
