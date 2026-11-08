@@ -2,7 +2,7 @@
 A fully responsive landing page built with **pure HTML5 and CSS**, without any frameworks.  
 This simple and clean template is ideal for portfolios, product showcases, or personal projects.
 
-![Kasper landing page preview](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/kasper-light.jpg)
+![Kasper landing page preview](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/kasper-devices.webp)
 
 ## Live Demo
 [View Live Demo](https://kasper-landing-page.pages.dev/)  
